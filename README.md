@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=[Leeelics]&show_icons=true&theme=transparent)
 
 ---
 
