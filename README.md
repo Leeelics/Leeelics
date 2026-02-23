@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 渐变横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=200&section=header&text=Elics&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- 渐变横幅 - 使用预设渐变 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19&height=200&section=header&text=Elics&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br>
 
@@ -73,9 +73,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Leeelics&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leeelics&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeelics&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeelics&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -93,7 +93,7 @@
 <div align="center">
 
 <!-- 底部渐变装饰 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19&height=100&section=footer" />
 
 <br>
 
