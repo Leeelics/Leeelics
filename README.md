@@ -45,12 +45,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
----
-
-## 📫 联系方式 | Contact
-
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [你的领英]
-- 🐦 Twitter: [@your_twitter]
-- 📝 Blog: [leelicspace](https://github.com/Leeelics/leelicspace)
